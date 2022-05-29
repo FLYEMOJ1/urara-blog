@@ -10,7 +10,7 @@ tags:
 Hey! 你可能已经知道了。
 我叫 **表情酱 / FLYEMOJI**
 
-一位在韩高中生，目标是 [Hanyang University](www.hanyang.ac.kr)
+一位在韩高中生，目标是 [Hanyang University](https://www.hanyang.ac.kr)
 
 兴趣爱好：
 1. Computer Science
