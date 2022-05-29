@@ -1,11 +1,10 @@
 ---
-title: 'Hello World'
+title: 'How About Use Urara?'
 date: 2021-11-01
 lastmod: 2021-12-12
 tags:
-  - 'Hello World'
   - 'Urara'
-cover: '/hello-world/cover.webp'
+cover: '/how-about-use-Urara/cover.webp'
 ---
 
 Welcome to Urara! this article contains some basic operations to help you quickly get started.
