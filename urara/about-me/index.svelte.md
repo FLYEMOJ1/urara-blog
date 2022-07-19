@@ -1,7 +1,7 @@
 ---
 title: 'About me!'
 date: 2022-05-29
-lastmod: 2022-05-29
+lastmod: 2022-07-19
 tags:
     - 'about-me'
 ---
