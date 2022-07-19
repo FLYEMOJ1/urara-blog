@@ -16,5 +16,7 @@ Hey! 你可能已经知道了。
 1. Computer Science
 2. Shooting Picture
 3. Record some thing ~~shit~~
-4. Streaming @ [BiliBili](https://live.bilibili.com/22217120)
+4. Streaming @ [BiliBili](https://live.bilibili.com/22217120) / [Twitch](https://twitch.tv/flyemoji)
+
+
 我还在完善这个页面，请给我点建议（
